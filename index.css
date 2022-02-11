@@ -29,13 +29,11 @@ a {
 	color: #ff0096;
 }
 
+#k {
+    	color:  #0f0;
+}
 
 #op{
     	color: #888888
 }
 
-@keyframes change {
-    	0%  { color:  #0f0; }
-    	50% { color:  #0f0; }
-    	99% { color: black; }
-}
